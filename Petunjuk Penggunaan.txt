@@ -1,0 +1,16 @@
+Jawaban Teknik Pertama
+
+Spesifikasi :
+1. Laravel 8
+2. PHP 8
+3. MySQL Database
+4. Menggunakan command valet untuk menjalankan server developmentnya
+5. Menggunakan Bootstrap 5 untuk framewrok CSS nya
+
+Running :
+1. buat database baru dengan nama test_laravel
+2. import database yang tersedia
+3. buka link https://test-laravel.test
+4. masuk dengan email:test2022@gmail.com dan password:12345678
+
+Karena minggu ini waktu saya terbagi dengan hal lain, saya mulai membuat aplikasi ini dari 3 hari yang lalu, dengan segala kekurangan pada aplikasi ini saya mohon maaf, terima kasih.
